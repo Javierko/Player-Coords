@@ -1,4 +1,4 @@
-local enablePos = false;
+local enablePos = false
 
 RegisterCommand("pos", function(source, args, raw)
     if enablePos then
